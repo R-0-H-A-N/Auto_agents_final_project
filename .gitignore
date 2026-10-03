@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.venv
+
+# Editor and OS specific files
+.DS_Store
+.vscode/
+.idea/
+.claude/
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build outputs
+dist/
+build/
+
+# Other
+docs/
+CLAUDE.md
+
